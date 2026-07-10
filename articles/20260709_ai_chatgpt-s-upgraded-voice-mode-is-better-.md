@@ -3,7 +3,7 @@ title: "ChatGPTの音声モード新型「GPT-Live-1」の変化とは"
 emoji: "📝"
 type: "tech"
 topics: []
-published: false
+published: true
 ---
 
 ## 3行要約(インプット用)
