@@ -3,7 +3,7 @@ title: "Lovableが評価額2倍の1兆9800億円規模で資金調達交渉か"
 emoji: "📝"
 type: "tech"
 topics: []
-published: false
+published: true
 ---
 
 ## 3行要約(インプット用)
