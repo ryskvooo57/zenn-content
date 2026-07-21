@@ -2,7 +2,7 @@
 title: "Vertuの78万円AIスマホは何が凄いのか実機レビューで検証"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
