@@ -2,7 +2,7 @@
 title: "Claude Fable 5、19日間停止からの復活の裏側"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
