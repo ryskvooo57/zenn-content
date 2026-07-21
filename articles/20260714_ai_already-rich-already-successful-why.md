@@ -2,7 +2,7 @@
 title: "GoCardless創業者ら成功者がAnthropicへ、なぜ今再び働くのか"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
