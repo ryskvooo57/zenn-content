@@ -2,7 +2,7 @@
 title: "2026年7月、絶対に知っておきたいAIの動き5つ"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
