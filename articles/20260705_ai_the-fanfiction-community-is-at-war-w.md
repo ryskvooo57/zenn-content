@@ -2,7 +2,7 @@
 title: "ファンフィクション界がAI検出ツールで大混乱、誤検出の懸念も"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
