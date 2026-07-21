@@ -2,7 +2,7 @@
 title: "OpenAIのGPT-5.6、Microsoft Copilot 365の「優先モデル」に採用"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
