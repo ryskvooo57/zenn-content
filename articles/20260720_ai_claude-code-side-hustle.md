@@ -2,7 +2,7 @@
 title: "Claude Codeの副業、稼ぎ方は主に3パターン"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
