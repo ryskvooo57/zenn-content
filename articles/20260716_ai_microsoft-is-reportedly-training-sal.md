@@ -2,7 +2,7 @@
 title: "MicrosoftがOpenAI・Anthropicを社内で「格下げ」指導、その理由とは"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
