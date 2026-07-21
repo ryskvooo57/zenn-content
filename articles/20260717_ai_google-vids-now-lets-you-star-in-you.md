@@ -2,7 +2,7 @@
 title: "Google Vids、自分そっくりのAIアバターで動画出演できる機能を追加"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
