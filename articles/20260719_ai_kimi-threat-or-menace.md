@@ -2,7 +2,7 @@
 title: "Kimi K3の衝撃とは?中国発オープンソースAIがNasdaq1%下落招いた理由"
 emoji: "📝"
 type: "tech"
-topics: []
+topics: ["ai"]
 published: true
 ---
 
